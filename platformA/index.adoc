@@ -1,0 +1,1 @@
+include::modules/moduleA.adoc[tags=!PlatformB]
